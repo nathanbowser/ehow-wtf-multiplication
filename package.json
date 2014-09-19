@@ -1,0 +1,26 @@
+{
+  "name": "ehow-wtf-multiplication",
+  "version": "1.0.0",
+  "description": "A module to handle multiplication using the ehow-wtf approach: http://www.ehow.com/video_12245475_multiply-c-programming.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "bin" : {
+    "ehow-wtf-multiplication" : "bin/cmd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanbowser/ehow-wtf-multiplication"
+  },
+  "keywords": [
+    "multiplication",
+    "ehow"
+  ],
+  "author": "Nathan Bowser <nathan.bowser@spiderstrategies.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanbowser/ehow-wtf-multiplication/issues"
+  },
+  "homepage": "https://github.com/nathanbowser/ehow-wtf-multiplication"
+}
